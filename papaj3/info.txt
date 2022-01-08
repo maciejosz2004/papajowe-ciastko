@@ -1,0 +1,15 @@
+{
+ "Name": "papaj3",
+ "ID": "papaj3",
+ "Author": "Maciejosz",
+ "Description": "Big papiesz3 zastepuje twoje ciastko, a cursorami staja sie kremowki ! KIEDYS BEDZIE UPDATE (jak bedzie mi sie kiedys chcialo)",
+ "ModVersion": 2,
+ "GameVersion": 2.043,
+ "Date": "04/01/2022",
+ "Dependencies": [
+  "CCSE"
+ ],
+ "Disabled": 1,
+ "AllowSteamAchievs": 1,
+ "Workshop": "2703546452"
+}
